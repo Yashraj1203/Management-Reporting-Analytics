@@ -40,7 +40,7 @@ financials.
   Consolidated EBIT                    ₹8,248.3m
   Budget EBIT                          ₹8,625.9m
   EBIT Variance                 ₹-377.6m (-4.4%)
-  Consolidated EBIT Margin                 29.9%
+  Consolidated EBIT Marginm                29.9%
 
 > Figures above are derived from  `Data_Raw` sheet 
 
@@ -185,7 +185,7 @@ Exception identification
 
 ## Suggested Portfolio Walkthrough
 
-For an interview or portfolio review, use this sequence:
+For a portfolio review, use this sequence:
 
 **01 → Cover**\
 Explain the business objective and model architecture.
@@ -209,11 +209,6 @@ Connect operating metrics to profitability and capital efficiency.
 Demonstrate model governance and reconciliation discipline.
 
 ## Portfolio Positioning
-
-This project is particularly relevant for: - FP&A Analyst - Financial
-Analyst - Business Finance Analyst - Management Reporting Analyst -
-Commercial Finance Analyst - Strategic Finance Analyst - Business / Data
-Analyst roles with finance exposure
 
 It demonstrates a combination of **financial modeling, management
 reporting, analytics, business partnering and data-driven decision
